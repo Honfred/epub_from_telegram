@@ -1,0 +1,13 @@
+[project]
+name = "epub-from-telegraph"
+version = "1.0.0"
+description = "Generate the epub file from telegraph links in telegram channels"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "ebooklib>=0.19",
+    "pyyaml>=6.0.2",
+    "requests>=2.32.4",
+    "telethon>=1.40.0",
+]

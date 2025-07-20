@@ -1,0 +1,10 @@
+telegram:
+  api_id: <your_api_id>
+  api_hash: '<your_api_hash>'
+  channel_username: '<your_channel_username>'
+  last_read_link: '<your_last_read_link>'
+
+book:
+  title: 'Name of the Book'
+  author: 'Author Name'
+  output_filename: 'output_filename.epub'
